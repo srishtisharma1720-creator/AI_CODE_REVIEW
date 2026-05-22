@@ -125,7 +125,9 @@ Known Limitations:
 Currently supports Python repositories only
 Large repositories may take longer to analyze
 Requires Groq API access
-AI responses may occasionally require manual verification
+AI responses may occasionally require manual verification.
+
+API key required for live AI review generation.
 
 Author
 
