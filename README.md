@@ -1,7 +1,5 @@
 AI Code Review Agent
 
-Built as part of the CipherSchools AI/ML Assignment.
-
 An advanced AI-powered code review system that automatically analyzes GitHub repositories using Abstract Syntax Tree (AST) parsing and Large Language Models (LLMs). The agent generates intelligent review comments with severity levels, confidence scores, and actionable improvement suggestions through an interactive Streamlit dashboard.
 
 Features:
